@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Queens Game</string>
+    <string name="myname">Md. Nayeem Sagor</string>
+    <string name="uvname">MIT, IIT, JU</string>
+    <string name="cseuvname">B.Sc in CSE, WUB</string>
+    <string name="gmail">sonetsagor@gmail.com</string>
+
+    <string name="main_menu">Main Menu</string>
+    <string name="info">Informaion</string>
+    <string name="home_page">Home Page</string>
+    <string name="exit">Exit</string>
+    <string name="about_us">About Us</string>
+    <string name="check_for_update">Check for Update</string>
+    <string name="other_apps">Other Apps</string>
+    <string name="share">Share</string>
+    <string name="rating">Rating</string>
+
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+
+    <string name="four_queen">4 Queens</string>
+    <string name="eight_queen">8 Queens</string>
+    <string name="instruction_rules">Instruction/Rules</string>
+    <string name="win">Win :</string>
+    <string name="win0">0</string>
+    <string name="tried">Lost :</string>
+    <string name="try0">0</string>
+    <string name="reset">Reset</string>
+    <string name="queenscount">Queens:</string>
+    <string name="queens4">4</string>
+    <string name="queens8">8</string>
+
+    <string name="descriptions">কুইন্স গেমটি হল N সংখ্যক দাবার কুইনগুলিকে একটি N×N চেসবোর্ডে রাখার সমস্যা যাতে কোনও দুটি রানী একে অপরকে আক্রমণ না করে।\n\n
+এই অ্যাপ্লিকেশনটিতে দুটি N কুইন্স গেম রয়েছে, একটি চার (৪) কুইন্স গেম এবং অন্যটি আট (৮) কুইন্স গেম।\n\n
+চার কুইন  গেমটি ৪×৪ দাবাবোর্ডে চারটি দাবা কুইন রাখার সমস্যা যাতে কোনও দুটি রানী একে অপরকে হুমকি না দেয়; সুতরাং, কোনও সমাধানের জন্য কোনও দুটি রানী একই সারি, কলাম বা তির্যকভাবে না থাকে ।\n\n
+চার কুইন গেমটিতে 2 টি পৃথক সমাধান রয়েছে। বোর্ডের আবর্তন এবং প্রতিবিম্বের প্রতিসাম্য ক্রিয়াকলাপগুলির দ্বারা পৃথক হওয়া সমাধানগুলি যদি একটি হিসাবে গণনা করা হয়, তবে গেমটিতে 1 টি সমাধান রয়েছে।\n\nআট কুইন গেমটি ৮×৮ দাবাবোর্ডে আটটি দাবা কুইন রাখার সমস্যা যাতে কোনও দুটি রানী একে অপরকে হুমকি না দেয়; সুতরাং, কোনও সমাধানের জন্য কোনও দুটি রানী একই সারি, কলাম বা তির্যকভাবে না থাকে। আট কুইন  গেমটি একটি N কুইন সমস্যার উদাহরণ N এর যে কোন স্বাভাবিক মানের জন্য N কুইন সমস্যার সমাধান বিদ্যমান শুধুমাত্র N=2 এবং N=3 ব্যতীত ।\n\n
+আটটি কুইন ধাঁধাটির 92 টি পৃথক সমাধান রয়েছে। বোর্ডের ঘূর্ণন এবং প্রতিবিম্বের প্রতিসাম্য ক্রিয়াকলাপগুলির দ্বারা পৃথক হওয়া সমাধানগুলি যদি একটি হিসাবে গণনা করা হয়, তবে ধাঁধাটির 12 টি সমাধান রয়েছে।\n\n\nThe Queens Game is the problem of placing N chess queens on an N×N chessboard so that no two queens attack each other.\n\n
+In this application there are two N Queens game, one is Four(4) Queens Game and another is Eight(8) Queens Game.\n\n
+The four queens puzzle or Game is the problem of placing four chess queens on an 4×4 chessboard so that no two queens threaten each other; thus, a solution requires that no two queens share the same row, column, or diagonal.\n\n
+The four queens puzzle has 2 distinct solutions. If solutions that differ only by the symmetry operations of rotation and reflection of the board are counted as one, the puzzle has 1 solution.\n\n
+The eight queens puzzle or Game is the problem of placing eight chess queens on an 8×8 chessboard so that no two queens threaten each other; thus, a solution requires that no two queens share the same row, column, or diagonal. The eight queens puzzle is an example of the more general n queens problem of placing n non-attacking queens on an n×n chessboard, for which solutions exist for all natural numbers n with the exception of n = 2 and n = 3.\n\n
+The eight queens puzzle has 92 distinct solutions. If solutions that differ only by the symmetry operations of rotation and reflection of the board are counted as one, the puzzle has 12 solutions.\n
+</string>
+</resources>

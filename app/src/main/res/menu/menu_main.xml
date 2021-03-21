@@ -1,0 +1,43 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.sonetsagor.a4queensgame.MainActivity"
+    >
+    <item
+        android:icon="@drawable/ic_baseline_more_vert_24"
+        android:title="@string/main_menu"
+        app:showAsAction="ifRoom">
+
+        <menu>
+            <item
+                android:id="@+id/aboutUs"
+                android:icon="@drawable/face"
+                android:title="@string/about_us"
+                app:showAsAction="never" />
+            <item
+                android:id="@+id/checkForUpdate"
+                android:icon="@drawable/download"
+                android:title="@string/check_for_update"
+                app:showAsAction="never" />
+            <item
+                android:id="@+id/otherApps"
+                android:icon="@drawable/moreapp"
+                android:title="@string/other_apps"
+                app:showAsAction="never" />
+            <item
+                android:id="@+id/share"
+                android:icon="@drawable/share"
+                android:title="@string/share"
+                app:showAsAction="never" />
+            <item
+                android:id="@+id/rating"
+                android:icon="@drawable/rating"
+                android:title="@string/rating"
+                app:showAsAction="never" />
+
+        </menu>
+
+
+    </item>
+
+</menu>
